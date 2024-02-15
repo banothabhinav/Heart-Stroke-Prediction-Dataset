@@ -6,11 +6,11 @@ Abstract: healthcare-dataset-stroke-data
 
 -----------------------------------------------------	
 
-Data Set Characteristics: Multivariate
-Total Columns are : 12
-Total Rows are: 5110
-Attribute Characteristics: Real
-Associated Tasks: Classification
+Data Set Characteristics: Multivariate                                                                                                    
+Total Columns are : 12                                                                                                                  
+Total Rows are: 5110                                                                                                                    
+Attribute Characteristics: Real                                                                                                          
+Associated Tasks: Classification                                                                                                        
 
 -----------------------------------------------------	
 
