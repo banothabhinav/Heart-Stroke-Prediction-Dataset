@@ -27,7 +27,7 @@ instance corresponding records of persons.
 
 Features Information:
 
-id                : The identification number of a single person
+id                : The identification number of a single person                                                                          
 gender            : Tells indiviual is a Male or Female
 age               : Age of an indiviual
 hypertension      : Abnormally high blood pressure of an indiviual
