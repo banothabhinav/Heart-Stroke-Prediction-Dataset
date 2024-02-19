@@ -4,6 +4,8 @@ Title: Heart-Stroke-Prediction-Dataset
 
 Abstract: healthcare-dataset-stroke-data
 
+Goal: To Predict the Possibility of Heart Stroke using Machine Learning Algorithms
+
 -----------------------------------------------------	
 
 Data Set Characteristics: Multivariate                                                                                                    
