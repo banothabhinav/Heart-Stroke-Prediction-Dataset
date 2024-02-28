@@ -1,6 +1,6 @@
-# Heart-Stroke-Prediction-Dataset
+# Heart-Stroke-Prediction
 
-Title: Heart-Stroke-Prediction-Dataset
+Title: Heart-Stroke-Prediction
 
 Abstract: healthcare-dataset-stroke-data
 
